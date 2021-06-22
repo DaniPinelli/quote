@@ -2,7 +2,7 @@
   "name": "quote",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://DaniPinelli.github.io/quote/quote",
+  "homepage": "http://DaniPinelli.github.io/quote",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.4.0",
